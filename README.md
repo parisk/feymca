@@ -1,6 +1,6 @@
 # feymca
 
-This is probably the first ever DnD adventuring party to have its own repo for the character sheets.
+We are probably the first ever DnD adventuring party to have its own repo for the character sheets.
 
 
 ## Roadmap 
