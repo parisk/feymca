@@ -1,0 +1,17 @@
+fon ti = {
+    "max_hp" : 37,
+    "current_hp" : 16,
+    "attributes" : "Strength - 12, Constitution - 12, Dexterity - 18, Intelligence - 16, Wisdom - 18, Charisma - 8",
+    "Armor Class": 18,
+    "speed": 40ft,
+    "hit dice": 5,
+    "gold": 252,
+    "silver": 5,
+    "copper": 0,
+    "weapons": "javelin, javelin of lightning",
+    "items": "9 darts, 4 healing potions, 1 tinderbox, bedroll, backpack, mess kit, rope of climbing, gogles of night, thieve's tools, 1 potion of resistance, 1 blackfist ring, deck of cards",
+    "proficiencies": "herbalist kit, deck of playing cards",
+    "languages": common - sylvan - giant,
+    
+    
+}
