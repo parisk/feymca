@@ -5,6 +5,9 @@ fon ti = {
     "Armor Class": 18,
     "speed": 40ft,
     "hit dice": 5,
+    "rechargables":{
+        "javelin of lightning":"on CD"
+        }
     "gold": 252,
     "silver": 5,
     "copper": 0,
