@@ -1,72 +1,72 @@
 {
-    lvl: 5,
-    location: "Shrine of reminiscence",
-    hp: {
+    "lvl": 5,
+    "location": "Shrine of reminiscence",
+    "hp": {
         current: 47,
         max: 47
     },
-    ac: 13,
-    stats: {
-        STR: (12, 1),
-        DEX: (13. 1),
-        CON: (14, 2),
-        INT: (14, 2),
-        WIS: (14, 2),
-        CHA: (18, 4)
+    "ac": 13,
+    "stats": {
+        "STR": 12,
+        "DEX": 13,
+        "CON": 14,
+        "INT": 14,
+        "WIS": 14,
+        "CHA": 18
     },
-    proficiencies: ["religion", "arcana", "medicine", "deception", "wisdom", "charisma"],
-    abilities: {
-        repelling_blast: "10ft repel per eldritch blast",
-        agonizing_blast: "+CHA in dmg of eldritch blast",
-        con_man: "x2 proficiency bonus to deception checks",
-        book_of_ancient_secrets: "can write rituals on spellbook",
-        darkness: {
-            used: false,
-            cooldown: "long rest"
+    "proficiencies": ["religion", "arcana", "medicine", "deception", "wisdom", "charisma"],
+    "abilities": {
+        "repelling_blast": "10ft repel per eldritch blast",
+        "agonizing_blast": "+CHA in dmg of eldritch blast",
+        "con_man": "x2 proficiency bonus to deception checks",
+        "book_of_ancient_secrets": "can write rituals on spellbook",
+        "darkness": {
+            "used": false,
+            "cooldown": "long rest"
         },
-        supreme_might: {
-            used: false,
-            cooldown: "short rest"
+        "supreme_might": {
+            "used": false,
+            "cooldown": "short rest"
         },
-        hellish_rebuke: {
-            used: false,
-            cooldown: "long rest"
+        "hellish_rebuke": {
+            "used": false,
+            "cooldown": "long rest"
         },
-        hellish_resistance: {
-            effect: "Resistance to fire damage."
+        "hellish_resistance": {
+            "effect": "Resistance to fire damage."
         }
     },
-    possessions: {
-        pearl_of_power: {
-            used: false,
-            usage: "action",
-            effect: "regain spell slot up to 3rd lvl",
-            cooldown: "next dawn"
+    "possessions": {
+        "pearl_of_power": {
+            "used": false,
+            "usage": "action",
+            "effect": "regain spell slot up to 3rd lvl",
+            "cooldown": "next dawn"
         },
-        items: [
+        "items": [
             "potion of greater healing",
             "explorer's pack",
             "herbalism kit",
             "studded leather"
         ],
-        wealth: {
-            gp: 116
+        "wealth": {
+            "gp": 116
         }
     },
-    spells: {
-        used: 1,
-        total: 2,
-        known: {
-            cantrips: [
+    "spells": {
+        "used": 1,
+        "total": 2,
+        "known": {
+            "cantrips": [
                 "Eldritch blast",
                 "Guidance",
                 "Thaumaturgy",
                 "Vicious mockery",
             ],
-            lvl1: [],
-            lvl2: [],
-            lvl3: ["fireball"],
-            rituals: [
+            "lvl1": [],
+            lvl2": [],
+            "lvl3": ["fireball"],
+            "rituals": [
                 "find familiar",
                 "identify",
                 "water breathing",
