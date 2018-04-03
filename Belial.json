@@ -2,8 +2,8 @@
     "lvl": 5,
     "location": "Shrine of reminiscence",
     "hp": {
-        current: 47,
-        max: 47
+        "current": 47,
+        "max": 47
     },
     "ac": 13,
     "stats": {
@@ -64,7 +64,7 @@
                 "Vicious mockery",
             ],
             "lvl1": [],
-            lvl2": [],
+            "lvl2": [],
             "lvl3": ["fireball"],
             "rituals": [
                 "find familiar",
