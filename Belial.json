@@ -1,6 +1,6 @@
 {
     "lvl": 5,
-    "location": "Shrine of reminiscence",
+    "location": "Shrine of reminiscence - inner/ritual chamber",
     "hp": {
         "current": 47,
         "max": 47
@@ -47,7 +47,12 @@
             "potion of greater healing",
             "explorer's pack",
             "herbalism kit",
-            "studded leather"
+            "studded leather",
+            "8 mysterious phials",
+            "Decanter of Endless Water",
+            "priceless memories of Enzo the fast and Doggo the monk",
+            "backpack with Olympiacos F.C. logo",
+            "cross shaped key"
         ],
         "wealth": {
             "gp": 116
