@@ -1,11 +1,12 @@
 {
     "lvl": 5,
-    "location": "Shrine of reminiscence - inner/ritual chamber",
+    "location": "Shrine of reminiscence - dragon memory chamber",
+    "thoughts": "https://www.youtube.com/watch?v=0cmqwbZa6_w",
     "hp": {
         "current": 47,
         "max": 47
     },
-    "ac": 13,
+    "ac": 14,
     "stats": {
         "STR": 12,
         "DEX": 13,
@@ -37,6 +38,11 @@
         }
     },
     "possessions": {
+        "gear": [
+            "Cloak of Resistance +1",
+            "Studded Leather",
+            "Wand of Warcaster +1"
+        ],
         "pearl_of_power": {
             "used": false,
             "usage": "action",
@@ -45,14 +51,19 @@
         },
         "items": [
             "potion of greater healing",
-            "explorer's pack",
-            "herbalism kit",
-            "studded leather",
-            "8 mysterious phials",
+            "6x healing potion",
+            "4x anti toxin potion",
+            "dust of dissapearance",
+            "breastplate of illithid",
+            "psychic glands of illithid",
             "Decanter of Endless Water",
             "priceless memories of Enzo the fast and Doggo the monk",
             "backpack with Olympiacos F.C. logo",
-            "cross shaped key"
+            "underwear of Lady Diamara",
+            "travelling stuff of Lady Diamara",
+            "cross shaped key",
+            "explorer's pack",
+            "herbalism kit"
         ],
         "wealth": {
             "gp": 116
