@@ -1,7 +1,8 @@
 {
     "lvl": 5,
     "location": "Shrine of reminiscence - dragon memory chamber",
-    "thoughts": "https://www.youtube.com/watch?v=0cmqwbZa6_w",
+    "thoughts": "Dear diary, today we parted ways with Fon. Even though I knew him for less than a week, it feels like months. But when a door closes, another one opens! The universe once again conspired and brought to me people with the same destination. Is it a coincidence or could it be that our paths were crossed by fate? PS: Note to self. If people I know die, I should appear upset. It seems that it is a sensitive matter...",
+    "inspiration": "yes it is",
     "hp": {
         "current": 47,
         "max": 47
@@ -39,9 +40,10 @@
     },
     "possessions": {
         "gear": [
-            "Cloak of Resistance +1",
+            "Cloak of Resistance (lightning) +1",
             "Studded Leather",
-            "Wand of Warcaster +1"
+            "Wand of Warcaster +1",
+            "flamboyant colorful fur coat",
         ],
         "pearl_of_power": {
             "used": false,
@@ -63,10 +65,12 @@
             "travelling stuff of Lady Diamara",
             "cross shaped key",
             "explorer's pack",
-            "herbalism kit"
+            "herbalism kit",
+            "-7gp for next find familiar",
+            "materials for 4xhealing potions"
         ],
         "wealth": {
-            "gp": 116
+            "gp": 115
         }
     },
     "spells": {
@@ -78,15 +82,27 @@
                 "Guidance",
                 "Thaumaturgy",
                 "Vicious mockery",
+                "Spare the dying",
+                "Minor illusion",
+                "Mage hand"
             ],
-            "lvl1": [],
-            "lvl2": [],
-            "lvl3": ["fireball"],
+            "lvl1": [
+                "Hex"
+            ],
+            "lvl2": [
+                "Hold person",
+                "Misty step",
+                "Invisibility"
+            ],
+            "lvl3": [
+                "Fireball",
+                "Dispel magic"
+            ],
             "rituals": [
-                "find familiar",
-                "identify",
-                "water breathing",
-                "water walking"
+                "Find familiar",
+                "Identify",
+                "Water breathing",
+                "Water walking"
             ]
         }
     },
