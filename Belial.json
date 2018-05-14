@@ -1,10 +1,10 @@
 {
     "lvl": 5,
-    "location": "Shrine of reminiscence - dragon memory chamber",
-    "thoughts": "Dear diary, today we parted ways with Fon. Even though I knew him for less than a week, it feels like months. But when a door closes, another one opens! The universe once again conspired and brought to me people with the same destination. Is it a coincidence or could it be that our paths were crossed by fate? PS: Note to self. If people I know die, I should appear upset. It seems that it is a sensitive matter...",
+    "location": "Fireball pit camp - Topless mountains: Ember path",
+    "thoughts": "Dear diary. Tristan kind of surprised me today! He sure can take a hit for someone his size! And it was funny when he exploded in rage. If only he spoke less... Silence is a virtue he does not possess. Faith is also interesting. She used yet another form of magic I had not experienced first hand. I should ask her about the box and its magic enchantment."
     "inspiration": "yes it is",
     "hp": {
-        "current": 47,
+        "current": 43,
         "max": 47
     },
     "ac": 14,
@@ -53,7 +53,7 @@
         },
         "items": [
             "potion of greater healing",
-            "6x healing potion",
+            "4x healing potion",
             "4x anti toxin potion",
             "dust of dissapearance",
             "breastplate of illithid",
