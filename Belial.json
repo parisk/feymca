@@ -31,7 +31,7 @@
             "cooldown": "short rest"
         },
         "hellish_rebuke": {
-            "used": false,
+            "used": true,
             "cooldown": "long rest"
         },
         "hellish_resistance": {
@@ -46,7 +46,7 @@
             "flamboyant colorful fur coat",
         ],
         "pearl_of_power": {
-            "used": false,
+            "used": true,
             "usage": "action",
             "effect": "regain spell slot up to 3rd lvl",
             "cooldown": "next dawn"
