@@ -1,11 +1,11 @@
 {
-    "lvl": 5,
-    "location": "Fireball pit camp - Topless mountains: Ember path",
-    "thoughts": "Dear diary. Tristan kind of surprised me today! He sure can take a hit for someone his size! And it was funny when he exploded in rage. If only he spoke less... Silence is a virtue he does not possess. Faith is also interesting. She used yet another form of magic I had not experienced first hand. I should ask her about the box and its magic enchantment.",
+    "lvl": 6,
+    "location": "Golden Explorer's Guild.",
+    "thoughts": "Feeling lucky",
     "inspiration": "yes it is",
     "hp": {
-        "current": 43,
-        "max": 47
+        "current": 57,
+        "max": 57
     },
     "ac": 14,
     "stats": {
@@ -31,8 +31,12 @@
             "cooldown": "short rest"
         },
         "hellish_rebuke": {
-            "used": true,
+            "used": false,
             "cooldown": "long rest"
+        },
+        "dark_one's_own_luck": {
+            "used": false,
+            "cooldown": "short rest"
         },
         "hellish_resistance": {
             "effect": "Resistance to fire damage."
@@ -46,17 +50,18 @@
             "flamboyant colorful fur coat",
         ],
         "pearl_of_power": {
-            "used": true,
+            "used": false,
             "usage": "action",
             "effect": "regain spell slot up to 3rd lvl",
             "cooldown": "next dawn"
         },
         "items": [
+            "awesome horn of yeti",
             "potion of greater healing",
             "4x healing potion",
             "4x anti toxin potion",
             "dust of dissapearance",
-            "breastplate of illithid",
+            "breastplate of illithid - estimated value 300gp",
             "psychic glands of illithid",
             "Decanter of Endless Water",
             "priceless memories of Enzo the fast and Doggo the monk",
@@ -70,11 +75,11 @@
             "materials for 4xhealing potions"
         ],
         "wealth": {
-            "gp": 115
+            "gp": 117.5
         }
     },
     "spells": {
-        "used": 1,
+        "used": 0,
         "total": 2,
         "known": {
             "cantrips": [
@@ -96,7 +101,8 @@
             ],
             "lvl3": [
                 "Fireball",
-                "Dispel magic"
+                "Dispel magic",
+                "Hunger of Hadar"
             ],
             "rituals": [
                 "Find familiar",
