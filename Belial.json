@@ -58,7 +58,7 @@
         "items": [
             "awesome horn of yeti",
             "potion of greater healing",
-            "4x healing potion",
+            "8x healing potion",
             "4x anti toxin potion",
             "dust of dissapearance",
             "breastplate of illithid - estimated value 300gp",
@@ -71,8 +71,8 @@
             "cross shaped key",
             "explorer's pack",
             "herbalism kit",
-            "-7gp for next find familiar",
-            "materials for 4xhealing potions"
+            "-7gp for next find familiar"
+
         ],
         "wealth": {
             "gp": 117.5
