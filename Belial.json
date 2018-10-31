@@ -1,11 +1,11 @@
 {
-    "lvl": 6,
-    "location": "Golden Explorer's Guild.",
-    "thoughts": "Feeling lucky",
-    "inspiration": "yes it is",
+    "lvl": 7,
+    "location": "Shadowfel",
+    "thoughts": "Gotta find that bleak lady biatch",
+    "inspiration": "minus negative thousand",
     "hp": {
-        "current": 57,
-        "max": 57
+        "current": 67,
+        "max": 67
     },
     "ac": 14,
     "stats": {
@@ -20,6 +20,7 @@
     "abilities": {
         "repelling_blast": "10ft repel per eldritch blast",
         "agonizing_blast": "+CHA in dmg of eldritch blast",
+        "devil's sight": "See normally in (non)magical darkness, 120ft",
         "con_man": "x2 proficiency bonus to deception checks",
         "book_of_ancient_secrets": "can write rituals on spellbook",
         "darkness": {
@@ -55,13 +56,18 @@
             "effect": "regain spell slot up to 3rd lvl",
             "cooldown": "next dawn"
         },
+        "potion_of_intimidation": {
+            "used": false,
+            "usage": "action",
+            "effect": "10min intimidation advantage",
+            "cooldown": "next dawn"
+        },
         "items": [
-            "awesome horn of yeti",
-            "potion of greater healing",
-            "8x healing potion",
+            "2x potion of greater healing",
+            "3x healing potion",
             "4x anti toxin potion",
+            "7x phials of black sap from corrupted trees (2 big, 5 small)",
             "dust of dissapearance",
-            "breastplate of illithid - estimated value 300gp",
             "psychic glands of illithid",
             "Decanter of Endless Water",
             "priceless memories of Enzo the fast and Doggo the monk",
@@ -71,11 +77,11 @@
             "cross shaped key",
             "explorer's pack",
             "herbalism kit",
-            "-7gp for next find familiar"
-
+            "1 bijouterie full of precious stones",
+            "4x pouches of 30gp each",
         ],
         "wealth": {
-            "gp": 117.5
+            "gp": 697.7
         }
     },
     "spells": {
