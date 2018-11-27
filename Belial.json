@@ -1,11 +1,11 @@
 {
-    "lvl": 7,
-    "location": "Shadowfel",
-    "thoughts": "Gotta find that bleak lady biatch",
-    "inspiration": "minus negative thousand",
+    "lvl": 8,
+    "location": "Flooded Divinity's Reach",
+    "thoughts": "Where is all this water coming from?",
+    "inspiration": "nopety nope",
     "hp": {
-        "current": 67,
-        "max": 67
+        "current": 73,
+        "max": 73
     },
     "ac": 14,
     "stats": {
@@ -14,7 +14,7 @@
         "CON": 14,
         "INT": 14,
         "WIS": 14,
-        "CHA": 18
+        "CHA": 20
     },
     "proficiencies": ["religion", "arcana", "medicine", "deception", "wisdom", "charisma"],
     "abilities": {
@@ -28,7 +28,7 @@
             "cooldown": "long rest"
         },
         "supreme_might": {
-            "used": false,
+            "used": true,
             "cooldown": "short rest"
         },
         "hellish_rebuke": {
@@ -48,16 +48,17 @@
             "Cloak of Resistance (lightning) +1",
             "Studded Leather",
             "Wand of Warcaster +1",
+            "Bracers of defence (+2 AC)",
             "flamboyant colorful fur coat",
         ],
         "pearl_of_power": {
-            "used": false,
+            "used": true,
             "usage": "action",
             "effect": "regain spell slot up to 3rd lvl",
             "cooldown": "next dawn"
         },
         "potion_of_intimidation": {
-            "used": false,
+            "used": true,
             "usage": "action",
             "effect": "10min intimidation advantage",
             "cooldown": "next dawn"
@@ -79,6 +80,8 @@
             "herbalism kit",
             "1 bijouterie full of precious stones",
             "4x pouches of 30gp each",
+            "scroll of stoneskin",
+            "scroll of protection from fiends",
         ],
         "wealth": {
             "gp": 697.7
@@ -109,6 +112,9 @@
                 "Fireball",
                 "Dispel magic",
                 "Hunger of Hadar"
+            ],
+            "lvl4": [
+                "Banish"
             ],
             "rituals": [
                 "Find familiar",
