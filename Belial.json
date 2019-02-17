@@ -1,11 +1,11 @@
 {
-    "lvl": 8,
-    "location": "Flooded Divinity's Reach",
-    "thoughts": "Where is all this water coming from?",
-    "inspiration": "nopety nope",
+    "lvl": 9,
+    "location": "It's always sunny in the FeyWild",
+    "thoughts": "Yash bitch",
+    "inspiration": "yeppity yep",
     "hp": {
-        "current": 73,
-        "max": 73
+        "current": 82,
+        "max": 82
     },
     "ac": 14,
     "stats": {
@@ -28,7 +28,7 @@
             "cooldown": "long rest"
         },
         "supreme_might": {
-            "used": true,
+            "used": false,
             "cooldown": "short rest"
         },
         "hellish_rebuke": {
@@ -52,13 +52,13 @@
             "flamboyant colorful fur coat",
         ],
         "pearl_of_power": {
-            "used": true,
+            "used": false,
             "usage": "action",
             "effect": "regain spell slot up to 3rd lvl",
             "cooldown": "next dawn"
         },
         "potion_of_intimidation": {
-            "used": true,
+            "used": false,
             "usage": "action",
             "effect": "10min intimidation advantage",
             "cooldown": "next dawn"
